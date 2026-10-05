@@ -1,4 +1,4 @@
-# Window Plotting Tool
+# TPQ Plotting Tool
 
 This Python program provides simple visualization tools for both temporal windows and arbitrary temporal linkings. It was used to generate figures for the thesis:
 
